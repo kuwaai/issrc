@@ -259,8 +259,8 @@ InstallingLabel=Veuillez patienter pendant que l'assistant installe [name] sur v
 
 ; *** "Setup Completed" wizard page
 FinishedHeadingLabel=Fin de l'installation de [name]
-FinishedLabelNoIcons=L'assistant a terminé l'installation de [name] sur votre ordinateur.
-FinishedLabel=L'assistant a terminé l'installation de [name] sur votre ordinateur. L'application peut être lancée à l'aide des icônes créées sur le Bureau par l'installation.
+FinishedLabelNoIcons=Le programme d'installation a installé les outils de génération [name] sur votre ordinateur.
+FinishedLabel=Le programme d'installation a installé les outils de génération [name] sur votre ordinateur. Vous pouvez commencer à les utiliser en sélectionnant l'icône [name] une fois les outils de génération terminés.
 ClickFinish=Veuillez cliquer sur Terminer pour quitter l'assistant d'installation.
 FinishedRestartLabel=L'assistant doit redémarrer votre ordinateur pour terminer l'installation de [name].%n%nVoulez-vous redémarrer maintenant ?
 FinishedRestartMessage=L'assistant doit redémarrer votre ordinateur pour terminer l'installation de [name].%n%nVoulez-vous redémarrer maintenant ?

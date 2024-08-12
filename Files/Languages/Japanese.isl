@@ -225,8 +225,8 @@ InstallingLabel=ご使用のコンピューターに [name] をインストールしています。しばら
 
 ; *** "Setup Completed" wizard page
 FinishedHeadingLabel=[name] セットアップウィザードの完了
-FinishedLabelNoIcons=ご使用のコンピューターに [name] がセットアップされました。
-FinishedLabel=ご使用のコンピューターに [name] がセットアップされました。アプリケーションを実行するにはインストールされたショートカットを選択してください。
+FinishedLabelNoIcons=[name] ビルドツールがコンピューターにインストールされました。
+FinishedLabel=[name] ビルドツールがコンピューターにインストールされました。ビルドツールの実行が完了したら、[name] アイコンを選択して使用を開始できます。
 ClickFinish=セットアップを終了するには「完了」をクリックしてください。
 FinishedRestartLabel=[name] のインストールを完了するためには、コンピューターを再起動する必要があります。すぐに再起動しますか？
 FinishedRestartMessage=[name] のインストールを完了するためには、コンピューターを再起動する必要があります。%n%nすぐに再起動しますか？

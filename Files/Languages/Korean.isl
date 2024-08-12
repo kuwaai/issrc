@@ -247,8 +247,8 @@ InstallingLabel=컴퓨터에 [name]을(를) 설치하는 동안 잠시 기다려
 
 ; *** "Setup Completed" wizard page
 FinishedHeadingLabel=[name] 설치 마법사 완료
-FinishedLabelNoIcons=컴퓨터에 [name] 설치를 완료했습니다.
-FinishedLabel=컴퓨터에 [name] 설치를 완료했습니다. 설치된 바로가기를 선택하여 응용 프로그램을 시작할 수 있습니다.
+FinishedLabelNoIcons=[name] 빌드 도구가 컴퓨터에 설치되었습니다.
+FinishedLabel=[name] 빌드 도구가 컴퓨터에 설치되었습니다. 빌드 도구 실행이 완료되면 [name] 아이콘을 선택하여 사용을 시작할 수 있습니다.
 ClickFinish=설치를 종료하려면 마침을 클릭하십시오.
 FinishedRestartLabel=[name] 설치를 완료하려면 컴퓨터를 다시 시작해야 합니다. 지금 다시 시작하시겠습니까?
 FinishedRestartMessage=[name] 설치를 완료하려면 컴퓨터를 다시 시작해야 합니다.%n%n지금 다시 시작하시겠습니까?

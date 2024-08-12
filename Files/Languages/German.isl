@@ -261,8 +261,8 @@ InstallingLabel=Warten Sie bitte, während [name] auf Ihrem Computer installiert
 
 ; *** "Setup Completed" wizard page
 FinishedHeadingLabel=Beenden des [name] Setup-Assistenten
-FinishedLabelNoIcons=Das Setup hat die Installation von [name] auf Ihrem Computer abgeschlossen.
-FinishedLabel=Das Setup hat die Installation von [name] auf Ihrem Computer abgeschlossen. Die Anwendung kann über die installierten Programm-Verknüpfungen gestartet werden.
+FinishedLabelNoIcons=Das Installationsprogramm hat die [name]-Build-Tools auf Ihrem Computer installiert.
+FinishedLabel=Das Installationsprogramm hat die [name]-Build-Tools auf Ihrem Computer installiert. Sie können sie verwenden, indem Sie das [name]-Symbol auswählen, nachdem die Build-Tools fertig ausgeführt wurden.
 ClickFinish=Klicken Sie auf "Fertigstellen", um das Setup zu beenden.
 FinishedRestartLabel=Um die Installation von [name] abzuschließen, muss das Setup Ihren Computer neu starten. Möchten Sie jetzt neu starten?
 FinishedRestartMessage=Um die Installation von [name] abzuschließen, muss das Setup Ihren Computer neu starten.%n%nMöchten Sie jetzt neu starten?

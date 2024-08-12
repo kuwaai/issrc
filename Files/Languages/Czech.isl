@@ -234,8 +234,8 @@ InstallingLabel=Èekejte prosím, dokud prùvodce instalací nedokonèí instalaci pro
 
 ; *** "Setup Completed" wizard page
 FinishedHeadingLabel=Dokonèuje se instalace produktu [name]
-FinishedLabelNoIcons=Prùvodce instalací dokonèil instalaci produktu [name] na Váš poèítaè.
-FinishedLabel=Prùvodce instalací dokonèil instalaci produktu [name] na Váš poèítaè. Produkt lze spustit pomocí nainstalovaných zástupcù.
+FinishedLabelNoIcons=Instalaèní program nainstaloval nástroje pro sestavení [name] do vašeho poèítaèe.
+FinishedLabel=Instalaèní program nainstaloval nástroje pro sestavení [name] do vašeho poèítaèe. Po dokonèení bìhu nástrojù pro sestavení je mùžete spustit výbìrem ikony [name].
 ClickFinish=Ukonèete prùvodce instalací klepnutím na tlaèítko Dokonèit.
 FinishedRestartLabel=K dokonèení instalace produktu [name] je nezbytné, aby prùvodce instalací restartoval Váš poèítaè. Chcete jej restartovat nyní?
 FinishedRestartMessage=K dokonèení instalace produktu [name] je nezbytné, aby prùvodce instalací restartoval Váš poèítaè.%n%nChcete jej restartovat nyní?

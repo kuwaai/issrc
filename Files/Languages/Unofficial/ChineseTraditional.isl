@@ -240,8 +240,8 @@ InstallingLabel=請稍候，安裝程式正在將 [name] 安裝到您的電腦�
 
 ; *** "Setup Completed" wizard page
 FinishedHeadingLabel=安裝完成
-FinishedLabelNoIcons=安裝程式已經將 [name] 安裝在您的電腦上。
-FinishedLabel=安裝程式已經將 [name] 安裝在您的電腦中，您可以選擇程式的圖示來執行該應用程式。
+FinishedLabelNoIcons=安裝程式已經將 [name] 建置工具安裝在您的電腦上。
+FinishedLabel=安裝程式已經將 [name] 建置工具安裝在您的電腦中，您可以等建置工具執行完成後，選擇 [name] 圖示來開始使用。
 ClickFinish=按 「完成」 以結束安裝程式。
 FinishedRestartLabel=要完成 [name] 的安裝，安裝程式必須重新啟動您的電腦。您想要現在重新啟動電腦嗎？
 FinishedRestartMessage=要完成 [name] 的安裝，安裝程式必須重新啟動您的電腦。%n%n您想要現在重新啟動電腦嗎？

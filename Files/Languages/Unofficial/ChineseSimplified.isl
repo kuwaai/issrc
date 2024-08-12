@@ -250,8 +250,8 @@ InstallingLabel=安装程序正在安装 [name] 到您的电脑中，请稍等�
 
 ; *** “安装完成”向导页
 FinishedHeadingLabel=[name] 安装完成
-FinishedLabelNoIcons=安装程序已在您的电脑中安装了 [name]。
-FinishedLabel=安装程序已在您的电脑中安装了 [name]。此应用程序可以通过选择安装的快捷方式运行。
+FinishedLabelNoIcons=安装程序已将 [name] 构建工具安装到您的计算机上。
+FinishedLabel=安装程序已将 [name] 构建工具安装到您的计算机上。构建工具运行完成后，您可以选择 [name] 图标开始使用。
 ClickFinish=点击“完成”退出安装程序。
 FinishedRestartLabel=要完成 [name] 的安装，安装程序必须重新启动您的电脑。您想要立即重新启动吗？
 FinishedRestartMessage=要完成 [name] 的安装，安装程序必须重新启动您的电脑。%n%n您想要立即重新启动吗？
